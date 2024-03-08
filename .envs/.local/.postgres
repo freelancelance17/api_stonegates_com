@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=api_stonegates_com
+POSTGRES_USER=yLoVsPeksEGCbfnSUEYykBgkAeLHfcGH
+POSTGRES_PASSWORD=e1VYsxvjJKmso3i7sSd9Lu4rU85CKe0tQ2w16AexddOu7R6T3HUAMoRKFPvPzX23
